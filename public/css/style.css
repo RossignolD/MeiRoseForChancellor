@@ -49,6 +49,7 @@
   padding: 1rem
 }
 
+
 button{
     background-color: #95bfa9;
     color: white;
@@ -107,6 +108,7 @@ body {
   /* Change color of dropdown links on hover */
   .dropdown-content a:hover {
     background-color: #95bfa9;
+    text-decoration: underline;
   }
   
   /* Show the dropdown menu on hover */
