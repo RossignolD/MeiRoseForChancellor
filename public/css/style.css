@@ -10,7 +10,7 @@
 }
 
 .header {
-  font-size: 4rem;
+  font-size: 3rem;
   align-content: left;
   color: #15396c;
   background-color: #6a8dcb;
@@ -46,13 +46,15 @@
   flex-direction: row;
   justify-content: space-around;
   background-color: #95bfa9;
-  padding: 1rem;
+  padding: 1rem
 }
 
 button{
     background-color: #95bfa9;
     color: white;
     border: none;
+    padding-left: 0;
+    padding-right: 3rem;
 
 }
 
